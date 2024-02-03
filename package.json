@@ -14,7 +14,8 @@
     "@vitejs/plugin-vue-jsx": "^3.0.2",
     "@vue/compiler-sfc": "^3.3.4",
     "path": "^0.12.7",
-    "vue": "^3.2.36",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5",
     "vuedraggable": "^4.1.0"
   },
   "devDependencies": {
